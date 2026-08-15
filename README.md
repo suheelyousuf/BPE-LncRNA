@@ -515,10 +515,9 @@ The implementation is optimized for CPU execution while automatically utilizing 
 If you use BPE-LncRNA in your research, please cite:
 
 ```bibtex
-@article{BPELncRNA2026,
+@article{BPELncRNA,
   title={BPE-LncRNA: Byte-Pair Encoding for Long Noncoding RNA Identification in Anopheles gambiae},
-  author={Computational Genomics Laboratory},
-  year={2026}
+  author={Suheel Yousuf Wani, Abdul Wahid}
 }
 ```
 
