@@ -90,7 +90,7 @@ Token Enrichment Analysis
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<username>/BPE-LncRNA.git
+git clone https://github.com/suheelyousuf/BPE-LncRNA.git
 cd BPE-LncRNA
 ```
 
