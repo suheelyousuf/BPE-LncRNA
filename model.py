@@ -12,7 +12,7 @@ End-to-end pipeline:
 Requirements:
   pip install torch tokenizers biopython scikit-learn pandas numpy matplotlib seaborn
 
-Author: Computational Genomics Laboratory
+Author: Suheel Yousuf Wani
 License: MIT
 """
 
